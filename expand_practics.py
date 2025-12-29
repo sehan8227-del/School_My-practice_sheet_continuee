@@ -31,6 +31,17 @@ def expand_text(s):
     return s.expandtabs(4)
 print(expand_text("hello\tworld"))
 
+def expand_text(a):
+    return a.expandtabs(2)
+print(expand_text("a\tvc\td"))
+print(expand_text("1234\t5678\t9"))
+
+def expand_text(b):
+    return b.expandtabs(8)
+print(expand_text("hi\tover\tthere"))
+print(expand_text("one\tseven\teven"))
+#def로 정의 해놓고 expandtabs를 사용해봤는데 8칸이 안되는데 왜 이렇게 되는거지?
+
 #match.expand("문자열")
 #바로 위의 match.expand는 expandtabs()의 문법 형태
 import re
