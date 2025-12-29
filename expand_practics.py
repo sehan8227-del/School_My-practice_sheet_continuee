@@ -1,8 +1,10 @@
 s = "a\tb\tc"
 s.expandtabs()
-print(s.expandtabs(8))
+print(s.expandtabs(10))
+#탭간격을 8칸으로 설정 한것 까진 알겠는데
+# 8칸 이상을 넣어도 왜 칸이 달라지질 않을까?
 
-a = "hello\tworld"
+a = "hello\tworld
 print(a.expandtabs(9))
 
 import re
