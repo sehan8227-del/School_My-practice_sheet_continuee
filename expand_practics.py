@@ -18,6 +18,15 @@ text = "x\ty"
 result = text.expandtabs(8)
 print(result)
 
+text = "\tx\ty\tz"
+result = text.expandtabs(4)
+print(result)
+#앞에 \t를 넣으면 들여쓰기 까지 포함해서 4칸?
+text = "a\tb\tc"
+result = text.expandtabs(6)
+print(result)
+# a\tb\tc를 했을때 6칸으로 설정하면 \t의 기준으로 6칸이 되네.
+
 def expand_text(s):
     return s.expandtabs(4)
 print(expand_text("hello\tworld"))
