@@ -15,7 +15,7 @@ m.expand(r"\2:\1")
 print(m.expand(r"\2:\1"))
 
 text = "x\ty"
-result = text.expandtabs(2)
+result = text.expandtabs(8)
 print(result)
 
 def expand_text(s):
