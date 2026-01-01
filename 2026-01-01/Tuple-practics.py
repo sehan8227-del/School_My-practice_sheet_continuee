@@ -1,8 +1,27 @@
 #튜플의 개념을 이해하기위한 예제
 
 # 1.튜플만들기  
+# 
+# 익숙치 않지만 리스트랑은 약간 다르네? 
+# 리스트는 print시 ()가 없는데 얘는 ()를 넣네?
 colors = ("red", "blue", "green")
 print(colors)
+colors = ("red", "blue", "green")
+print(colors)
+colors = ("red", "blue", "green")
+print(colors)
+colors = ("red", "blue", "green")
+print(colors)
+colors = ("red", "blue", "green")
+print(colors)
+colors = ("red", "blue", "green")
+print(colors)
+colors = ("red", "blue", "green")
+print(colors)
+colors = ("red", "blue", "green")
+print(colors)
+
+
 
 # 2.값꺼내기 (인덱싱)
 numbers = (10, 20, 30)
