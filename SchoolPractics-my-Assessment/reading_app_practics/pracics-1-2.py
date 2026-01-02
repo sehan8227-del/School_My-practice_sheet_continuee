@@ -100,3 +100,15 @@ contents = {
     "format": "comics",
     "memo": "humenity chaos fall"
 }
+content = []
+content = {
+    "title": "DeathNote",
+    "category": "contents",
+    "format": "comics",
+    "memo": "humanity chaos fall"
+}
+contents.append(contents)
+print(contents)
+
+#뭐지 왜 .append가 안먹히지?
+# ?
