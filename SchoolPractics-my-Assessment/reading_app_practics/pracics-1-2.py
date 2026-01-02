@@ -112,3 +112,23 @@ print(contents)
 
 #뭐지 왜 .append가 안먹히지?
 # ?
+
+contents = []
+contents1 = ({
+    "title": "DeathNote",
+    "category": "contents",
+    "format": "comics",
+    "memo": "humanity chaos fall",
+}),contents2 =({
+    "title": "강철의 연금술사",
+    "category": "콘텐츠",
+    "format": "만화",
+    "memo": "인간이 인간 다워 질 수 있는 인간찬가",
+}),contents3 =({
+    "title": "던전밥",
+    "category": "콘텐츠",
+    "format": "만화",
+    "memo": "상상속 식재료라도 인간의 상상을 벗어날 수 없지만 배우고 싶은 요리 레시피북",
+})
+content.append(contents1)
+print(contents1)
