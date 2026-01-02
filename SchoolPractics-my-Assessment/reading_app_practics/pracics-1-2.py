@@ -92,3 +92,11 @@ contents = {
     "format": "comics",
     "memo": "humenity chaos fall"
 }
+#git 하다가 꼬여서 깜짝 놀랬네
+# 보았더니 파일 저장을 안하고 git add를 해서 꼬여버림
+contents = {
+    "title": "DeathNote",
+    "category": "contents",
+    "format": "comics",
+    "memo": "humenity chaos fall"
+}
