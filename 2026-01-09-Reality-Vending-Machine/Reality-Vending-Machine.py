@@ -88,8 +88,6 @@
 
 
 
-
-
 def Flower_Vending_Machine( )
     
 Flower_Vending_Machine = "꽃 자판기"
