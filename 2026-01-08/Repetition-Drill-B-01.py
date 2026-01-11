@@ -239,6 +239,27 @@ members = ["이세한","이단비","이종민","김덕순"]
 three = members[2]
 print(three)
 
+members = ["이세한","박희망","송나영"]
+two = members[1]
+print(two)
 
+members = ["이세한","박희망","송나영"]
+three = members[2]
+print(three)
+# three가 오타가나 theree가 됨.
+
+members = ["이세한","김진우","김학준"]
+two = members[2]
+print(two)
+# "김진우"를 꺼내려다 "김학준"을 꺼냄
+members = ["이세한","김진우","김학준"]
+two = members[1]
+print(two)
+
+members = ["이세한","김진우","김학준"]
+three = members[2]
+print(three)
+
+#친구들의 이름을 적으면서 각 지정한 변수와 맞게 지정한 문자열을 뽑아 내고 있음
 
 
