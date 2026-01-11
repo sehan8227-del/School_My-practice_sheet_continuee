@@ -262,4 +262,15 @@ print(three)
 
 #친구들의 이름을 적으면서 각 지정한 변수와 맞게 지정한 문자열을 뽑아 내고 있음
 
+members = ["김용연","김학준","김진우"]
+first = members[0]
+print(first)
+
+members = ["김진우","김학준","김용연"]
+first =members[0]
+print(first)
+
+members = ["김학준","김용연","김진우"]
+first= members[0]
+print(first)
 
