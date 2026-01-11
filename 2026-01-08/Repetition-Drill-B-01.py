@@ -156,5 +156,36 @@ print(members)
 members = []
 print(members)
 
+# 반복훈련 B-02
+
+members = ["공욱재", "공미남", "공추남"]
+print(members)
+
+members = ["이세한","이단비","이종민"]
+print(members)
+
+members = ["이세한","이단비","이종민"]
+print(members)
+
+members = ["이세한","이단비","이종민"]
+print(members)
+
+members = ["이세한","이단비","이종민","김덕순"]
+print(members)
+
+members = ["이세한","이단비","이종민","김덕순"]
+print(members)
+
+members = ["이세한","이단비","이종민","김덕순"]
+print(members)
+
+members = ["이세한","이단비","이종민","김덕순"]
+print(members)
+
+members = ["이세한","이단비","이종민","김덕순"]
+print(members)
+
+members = ["이세한","이단비","이종민","김덕순"]
+print(members)
 
 
