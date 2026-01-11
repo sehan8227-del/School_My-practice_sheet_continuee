@@ -188,4 +188,57 @@ print(members)
 members = ["이세한","이단비","이종민","김덕순"]
 print(members)
 
+members = ["이세한","이단비","이종민","김덕순"]
+print(members)
+
+members = ["이세한","이단비","이종민","김덕순"]
+print(members)
+
+members = ["공욱재", "공미남", "공추남"]
+first = members[0]
+print(first)
+
+# ? members라는 변수에 리스트를 만들어 문자열을 넣었고?members라는 변수의 리스트 index0번을 꺼내오며 first라는 변수에 저장이 맞나?여튼 저장하여 print로 first를 출력하면 "공욱재"가 나오나 보네
+
+members = ["이세한","이단비","이종민","김덕순"]
+two = members[1]
+print(two)
+
+# 동생의 이름을 출력하기위해 two라는 변수에 1을 넣어 만들었더니 되네
+members = ["이세한","이단비","이종민","김덕순"]
+four = members[3]
+print(four)
+
+#어머니 이름 출력도 잘되는구먼
+
+members = ["이세한","이단비","이종민","김덕순"]
+first = members[0]
+print(first)
+
+members = ["이세한","이단비","이종민","김덕순"]
+first = members[0]
+print(first)
+
+members = ["이세한","이단비","이종민"]
+first = members[0]
+print(first)
+
+members = ["이세한","이단비","이종민","김덕순"]
+first = members[0]
+print(first)
+
+members = ["이세한","이단비","이종민","김덕순"]
+first = members[0]
+print(first)
+
+members = ["이세한","이단비","이종민","김덕순"]
+three = members[2]
+print(three)
+
+members = ["이세한","이단비","이종민","김덕순"]
+three = members[2]
+print(three)
+
+
+
 
